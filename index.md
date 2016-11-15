@@ -16,5 +16,8 @@
 
 - [第一章 安装 CentOS](./chapters/01.system-installation.md)
 - [第二章 安装最新版 GCC](./chapters/02.compile-latest-gcc.md)
-- 第三章 安装 Git
-- 第四章 安装 Node.js
+- [第三章 初始化系统环境](./chapters/03.initial-system.md)
+- [第四章 安装最新版 Nginx](./chapters/04.compile-nginx.md)
+- [第五章 安装最新版 MySQL](./chapters/05.compile-mysql.md)
+- [第六章 编译安装 PHP](./chapters/06.compile-php.md)
+- [第七章 编译安装 Redis 服务器](./chapters/07.compile-redis.md)
